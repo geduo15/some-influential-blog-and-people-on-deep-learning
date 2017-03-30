@@ -1,4 +1,4 @@
-# some-influential-blog-and-people-on-deep-learning
+# Some-influential-blog-and-people-on-deep-learning
 The list contains some blogs or people who have influence
 
 Goodfellow’s blog, http://www.iangoodfellow.com/blog/
